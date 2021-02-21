@@ -15,7 +15,7 @@ function myFunction() {
 }
 myFunction();
 
-//🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
+//🚀🚀🚀 ⬇️ 📝 Explzxanation ⬇️ 📝 🚀🚀🚀: 
 //A nested function is inside the scope of the primary function.
 
 
