@@ -1,4 +1,4 @@
-//🚀🚀🚀  Topic #1 Closures 🚀🚀🚀//
+//🚀🚀🚀  Topic #1 Closures 🚀🚀🚀//f
 /* 🚀🚀🚀🤓 Task 1: 🤓🚀🚀🚀 
 Study the code below and explain in ynour own words why nested function can access the variable internal. */
 
