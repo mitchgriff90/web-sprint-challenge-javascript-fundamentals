@@ -186,7 +186,7 @@ class CuboidMaker {
 
 /* 🐴🐴🐴 Step 4: Create a new object that uses CuboidMaker 🐴🐴🐴
   Create an object called cuboid that uses the new keyword to use our CuboidMaker constructor
-  Add properties and values of length: 4, width: 5, and height: 5 to cuboid. */
+  Add properties and va lues of length: 4, width: 5, and height: 5 to cuboid. */
 
 let cuboid = new CuboidMaker({
     length: 4,
